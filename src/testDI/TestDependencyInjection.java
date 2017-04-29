@@ -5,9 +5,7 @@ import pojos.Address_RUS;
 import pojos.IAddress;
 import pojos.Person;
 
-/**
- * Created by KIRILL on 29.04.2017.
- */
+
 public class TestDependencyInjection {
 
 
